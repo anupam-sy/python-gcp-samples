@@ -66,7 +66,7 @@ def get_reserved_ips(project_ids):
                         print(f"Project ID: {project_id} External IP: {address.name} Region: {region}")
 
 def main():
-    parent="organizations/UPDATE_ME" # For folder, use ""folders/UPDATE_ME""
+    parent="organizations/UPDATE_ME" # For folder, use "folders/UPDATE_ME"
     project_ids = get_gcp_projects(parent)
     get_reserved_ips(project_ids)
 
