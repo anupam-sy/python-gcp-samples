@@ -1,5 +1,5 @@
-from google.cloud import compute_v1
 # from google.oauth2 import service_account
+from google.cloud import compute_v1
 
 # Use this, if authentication to be done via service account
 # credentials = service_account.Credentials.from_service_account_file('sa-key.json')
