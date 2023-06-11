@@ -61,7 +61,7 @@ With Cloud Client Libraries for Python:
 - https://cloud.google.com/apis/docs/overview
 - https://cloud.google.com/apis/docs/client-libraries-explained
 - https://cloud.google.com/apis/docs/cloud-client-libraries
-- https://cloud.google.com/python/docs/reference
+- [NEW] https://cloud.google.com/python/docs/reference
 - [OLD] https://developers.google.com/api-client-library/
 - https://cloud.google.com/docs/samples
 - https://cloud.google.com/compute/docs/samples
