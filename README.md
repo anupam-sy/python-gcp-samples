@@ -1,6 +1,6 @@
 # python-gcp-samples
 This repository contains python samples intended to use in day to day operational activities on google cloud platform.
-Usecases for which the python scripts are wrttien can be found [here]().
+Usecases for which the python scripts are written can be found [here](./usecases.md).
 
 ## Prerequisites
 Below prerequisites must be fulfilled for the successful execution of code.
