@@ -5,4 +5,4 @@ This document lists the most of the common use cases for which python scripts ar
 2. [WIP] Get all the service account in a GCP project having service account keys.
 3. [WIP] Get all the compute engines in a google cloud project having external IP address.
 4. [WIP] Get all the unused compute disks in a google cloud project to save operational cost.
-5. [WIP] 
+5. TBD
