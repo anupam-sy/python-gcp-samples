@@ -3,6 +3,7 @@ from google.cloud import compute_v1
 
 def get_compute_instances(project_id):
     """ Prints all the google compute instances of a project """
+    
     instance_client = compute_v1.InstancesClient()
     
     request = compute_v1.AggregatedListInstancesRequest()

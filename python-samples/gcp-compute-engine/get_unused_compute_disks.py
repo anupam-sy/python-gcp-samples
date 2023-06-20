@@ -4,6 +4,7 @@ def get_unused_compute_disks(project_id):
     """
     Prints the unused regional/zonal compute disks of a project.
     """
+    
     addresses_client = compute_v1.DisksClient()
     for zone, response in addresses_client.aggregated_list(project=project_id):
         if response.disks:
